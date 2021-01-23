@@ -1,4 +1,4 @@
-<h1 align="center" >Devfinace 💰</h1>
+<h1 align="center" >Devfinance 💰</h1>
 
 ## Projeto 💻
 
