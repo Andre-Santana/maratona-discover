@@ -1,5 +1,7 @@
 <h1 align="center" >Devfinance 💰</h1>
 
+<img align="center" src="https://dev-finance-version02.netlify.app/assets/logo.svg" alt="Imagem de dev finance">
+
 ## Projeto 💻
 
 O projeto "dev.finance$" foi desenvolvido na primeira aula da Maratona Discover, um evento promovido pela **[@Rocketseat](https://github.com/Rocketseat)** com aulas ministradas pelo **[Mayk Brito](https://github.com/maykbrito)** durante os dias 14, 21, 28 de janeiro e 04 de fevereiro.
