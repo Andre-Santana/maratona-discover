@@ -1,6 +1,6 @@
 <h1 align="center" >Dev.finance 💰</h1>
 
-<img src="https://dev-finance-version02.netlify.app/assets/logo.svg" alt="Imagem de dev finance">
+<img  src="https://dev-finance-version02.netlify.app/assets/logo.svg" align="center" >
 
 ## Projeto 💻
 
