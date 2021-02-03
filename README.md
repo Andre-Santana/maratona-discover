@@ -1,4 +1,4 @@
-<h1 align="center" > <img  src="https://dev-finance-version02.netlify.app/assets/logo.svg"> </h1>
+<h1 align-items="center" > <img  src="https://dev-finance-version02.netlify.app/assets/logo.svg"> </h1>
 
 ## Projeto 💻
 
