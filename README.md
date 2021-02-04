@@ -1,4 +1,4 @@
-<header align="center" > <img src="https://dev-finance-version02.netlify.app/assets/logo.svg"> </header>
+<header align="center" > <img src="https://dev-finance-version02.netlify.app/assets/logo.svg" alt="Logo devfinance"> </header>
 
 ## Projeto 💻
 
