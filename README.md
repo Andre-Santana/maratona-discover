@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * HTML
 * CSS
-* JavaScript
+* Javascript
 ---
 
 <p align="center">Por André Santana</p>
