@@ -139,7 +139,7 @@ const Utils = {
         
         value = value * 100
 
-        return Math.round(value)
+        return Math.round(value) 
     },
 
     formatDate(date) { //Eesolver o problema pois no padrão ele vem em ano, mês e dia separado por traço
