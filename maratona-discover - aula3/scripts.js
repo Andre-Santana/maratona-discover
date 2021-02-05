@@ -137,14 +137,9 @@ const DOM = {
 const Utils = {
     formatAmount(value) {
         
-        /*
-        //Jeito descomplicado:
-        value = Number(value) * 100
-        */
-       //Jeito complicado que o Maik inventou
-        value = Number(value.replace(/\,\./g, "")) * 100
+        value = value * 100
 
-        return value
+        return Math.round(value)
     },
 
     formatDate(date) { //Eesolver o problema pois no padrão ele vem em ano, mês e dia separado por traço
