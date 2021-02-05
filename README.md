@@ -1,4 +1,5 @@
-<h1 align="center" > <img  src="https://dev-finance-version02.netlify.app/assets/logo.svg"> </h1>
+<div align="center" > <img src="https://dev-finance-version02.netlify.app/assets/logo.svg"> </div>
+
 
 ## Projeto 💻
 
@@ -20,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 * HTML
 * CSS
-* JavaScript
+* Javascript
 ---
 
 <p align="center">Por André Santana</p>
